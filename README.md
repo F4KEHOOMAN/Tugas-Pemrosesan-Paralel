@@ -1,6 +1,6 @@
 # Tugas-Pemrosesan-Paralel
 
-Checking RAM, CPU, and RX/TX
+Checking RAM, CPU, and RX/TX with paramiko
 
 Kelompok 7:
 
