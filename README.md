@@ -1,6 +1,7 @@
 # Tugas-Pemrosesan-Paralel
 
 Checking RAM, CPU, and RX/TX
+
 Kelompok 7:
 
 
