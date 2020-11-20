@@ -1,4 +1,3 @@
-#tugas pp
 import paramiko
 
 def pilih():
